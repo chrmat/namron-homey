@@ -460,7 +460,10 @@
         "small": "/drivers/ZW_Dimmer_Rotary/assets/images/small.png"
       },
       "zwave": {
-        "manufacturerId": 1073,
+        "manufacturerId": [
+          1073,
+          1080
+        ],
         "productTypeId": [
           514
         ],
